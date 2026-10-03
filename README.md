@@ -1,6 +1,6 @@
 # 『魂斗羅 Dual Spirits』 NDS 한국어 패치 1.0
 
-배포일: 2026-9-05
+배포일: 2026-09-21
 대상: Contra - Dual Spirits 일본판
 
 이 패키지에는 원본 NDS나 패치 완료 NDS가 들어 있지 않습니다. 
