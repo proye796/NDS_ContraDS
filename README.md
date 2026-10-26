@@ -1,22 +1,16 @@
-# 『魂斗羅 Dual Spirits』 NDS 한국어 패치 1.0
+# 『魂斗羅 Dual Spirits』 NDS 한국어 패치 1.0.1
 
-배포일: 2026-09-21
+배포일: 2026-16-26
 대상: Contra - Dual Spirits 일본판
 
 이 패키지에는 원본 NDS나 패치 완료 NDS가 들어 있지 않습니다. 
 정품에서 추출한 정확한 NDS가 필요합니다.
 
-## 지원 원본
-
 | 파일 | SHA-256 |
-|---|---|
-| NDS | `cb7c859bfb80f5d73c148fb56bbc8501357875750aa79badcdfb621bad8aec36` |
-
-## 패치 결과
-
-| 파일 | SHA-256 |
-|---|---|
-| NDS | `0e315b8d0352d9e12de465d64fc677a4f7089175e96c0d1eb55337d79f741a49` |
+| --- | --- |
+| 일본판 원본 | `cb7c859bfb80f5d73c148fb56bbc8501357875750aa79badcdfb621bad8aec36` |
+| BPS 패치 | `04b8f5b0f282eb862c87743c0deb432b215952551f06a6a3d4d722acdf21eb2b` |
+| 적용 결과 | `989be35045e1f7ed31046614c36e3272c2e6e7ef1a1f8a592a76e52185c7c3ec` |
 
 
 ## 추가 조작
